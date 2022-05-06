@@ -860,5 +860,204 @@
         }
       }
     ]
+  },
+  {
+    "account": "Wincygamer-97",
+    "schoolar": "kim06#0862",
+    "ronin": "ronin:0fe79e2776abfc7d7c47173464b1c0760db3bcda",
+    "status": "playing",
+    "energy": true,
+    "assets": [
+      {
+        "id": "#8441944",
+        "class": "bug",
+        "breed": 0,
+        "parts": {
+          "eyes": "gecko",
+          "ears": "clover",
+          "back": "garish worm",
+          "mouth": "cute bunny",
+          "horn": "antenna",
+          "tail": "hot butt"
+        },
+        "stats": {
+          "health": 47,
+          "speed": 32,
+          "skill": 35,
+          "morale": 50
+        }
+      },
+      {
+        "id": "#8441593",
+        "class": "dusk",
+        "breed": 0,
+        "parts": {
+          "eyes": "cucumber slice",
+          "ears": "small frill",
+          "back": "pumpkin",
+          "mouth": "cute bunny",
+          "horn": "antenna",
+          "tail": "yam"
+        },
+        "stats": {
+          "health": 57,
+          "speed": 40,
+          "skill": 27,
+          "morale": 40
+        }
+      },
+      {
+        "id": "#8435330",
+        "class": "beast",
+        "breed": 0,
+        "parts": {
+          "eyes": "chubby",
+          "ears": "nyan",
+          "back": "ronin",
+          "mouth": "herbivore",
+          "horn": "antenna",
+          "tail": "snake jar"
+        },
+        "stats": {
+          "health": 38,
+          "speed": 39,
+          "skill": 31,
+          "morale": 56
+        }
+      },
+      {
+        "id": "#8148095",
+        "class": "bug",
+        "breed": 3,
+        "parts": {
+          "eyes": "neo",
+          "ears": "hollow",
+          "back": "garish worm",
+          "mouth": "cute bunny",
+          "horn": "antenna",
+          "tail": "gravel ant"
+        },
+        "stats": {
+          "health": 43,
+          "speed": 31,
+          "skill": 35,
+          "morale": 55
+        }
+      },
+      {
+        "id": "#7880582",
+        "class": "dusk",
+        "breed": 3,
+        "parts": {
+          "eyes": "cucumber slice",
+          "ears": "rosa",
+          "back": "pumpkin",
+          "mouth": "cute bunny",
+          "horn": "antenna",
+          "tail": "carrot"
+        },
+        "stats": {
+          "health": 57,
+          "speed": 39,
+          "skill": 27,
+          "morale": 41
+        }
+      },
+      {
+        "id": "#7880195",
+        "class": "dusk",
+        "breed": 0,
+        "parts": {
+          "eyes": "confused",
+          "ears": "sakura",
+          "back": "pumpkin",
+          "mouth": "axie kiss",
+          "horn": "antenna",
+          "tail": "carrot"
+        },
+        "stats": {
+          "health": 56,
+          "speed": 40,
+          "skill": 27,
+          "morale": 41
+        }
+      },
+      {
+        "id": "#7368178",
+        "class": "aquatic",
+        "breed": 4,
+        "parts": {
+          "eyes": "little peas",
+          "ears": "gill",
+          "back": "goldfish",
+          "mouth": "risky fish",
+          "horn": "antenna",
+          "tail": "navaga"
+        },
+        "stats": {
+          "health": 44,
+          "speed": 54,
+          "skill": 35,
+          "morale": 31
+        }
+      },
+      {
+        "id": "#5959957",
+        "class": "reptile",
+        "breed": 4,
+        "parts": {
+          "eyes": "tricky",
+          "ears": "curved spine",
+          "back": "tri spikes",
+          "mouth": "razor bite",
+          "horn": "scaly spoon",
+          "tail": "tiny dino"
+        },
+        "stats": {
+          "health": 57,
+          "speed": 41,
+          "skill": 31,
+          "morale": 35
+        }
+      },
+      {
+        "id": "#6449859",
+        "class": "reptile",
+        "breed": 3,
+        "parts": {
+          "eyes": "clear",
+          "ears": "bubblemaker",
+          "back": "snail shell",
+          "mouth": "tiny turtle",
+          "horn": "lagging",
+          "tail": "thorny caterpillar"
+        },
+        "stats": {
+          "health": 47,
+          "speed": 42,
+          "skill": 31,
+          "morale": 44
+        }
+      },
+      {
+        "id": "#5546711",
+        "class": "plant",
+        "breed": 3,
+        "parts": {
+          "eyes": "papi",
+          "ears": "clover",
+          "back": "pumpkin",
+          "mouth": "serious",
+          "horn": "cactus",
+          "tail": "carrot"
+        },
+        "stats": {
+          "health": 61,
+          "speed": 31,
+          "skill": 31,
+          "morale": 41
+        }
+      }
+    ]
   }
 ]
