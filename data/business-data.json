@@ -1,0 +1,29 @@
+[
+  {
+    "name": "central",
+    "discord": "none",
+    "ronin": "ronin:6906cf9832ce56d1371b646210acb39b473f3866",
+    "assets": [
+      {
+        "id": "#8073396",
+        "class": "bird",
+        "breed": 3,
+        "parts": {
+          "eyes": "mavis",
+          "ears": "owl",
+          "back": "pigeon post",
+          "mouth": "doubletalk",
+          "horn": "antenna",
+          "tail": "post fight"
+        },
+        "stats": {
+          "health": 28,
+          "speed": 58,
+          "skill": 35,
+          "morale": 43
+        }
+      },
+      {}
+    ]
+  }
+]
