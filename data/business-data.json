@@ -230,7 +230,7 @@
         "breed": 0,
         "parts": {
           "eyes": "clear",
-          "ears": "bubblemark",
+          "ears": "bubblemaker",
           "back": "croc",
           "mouth": "peace maker",
           "horn": "lagging",
@@ -592,6 +592,72 @@
           "speed": 31,
           "skill": 31,
           "morale": 41
+        }
+      }
+    ]
+  },
+  {
+    "account": "Wincygamers-90",
+    "schoolar": "MoisesGt#8811",
+    "ronin": "ronin:acc5e0bcc4f1b2909df16f7331b0569269f29aa0",
+    "status": "playing",
+    "energy": false,
+    "assets": [
+      {
+        "id": "#8086791",
+        "class": "plant",
+        "breed": 4,
+        "parts": {
+          "eyes": "papi",
+          "ears": "rosa",
+          "back": "watering can",
+          "mouth": "serious",
+          "horn": "leaf bug",
+          "tail": "hot butt"
+        },
+        "stats": {
+          "health": 59,
+          "speed": 31,
+          "skill": 31,
+          "morale": 43
+        }
+      },
+      {
+        "id": "#7829093",
+        "class": "reptile",
+        "breed": 4,
+        "parts": {
+          "eyes": "tricky",
+          "ears": "curved spine",
+          "back": "tri spikes",
+          "mouth": "razor bite",
+          "horn": "scaly spoon",
+          "tail": "iguana"
+        },
+        "stats": {
+          "health": 57,
+          "speed": 41,
+          "skill": 31,
+          "morale": 35
+        }
+      },
+      {
+        "id": "#5228786",
+        "class": "reptile",
+        "breed": 3,
+        "parts": {
+          "eyes": "gero",
+          "ears": "bubblemaker",
+          "back": "snail shell",
+          "mouth": "tiny turtle",
+          "horn": "lagging",
+          "tail": "thorny caterpillar"
+        },
+        "stats": {
+          "health": 47,
+          "speed": 42,
+          "skill": 31,
+          "morale": 44
         }
       }
     ]
