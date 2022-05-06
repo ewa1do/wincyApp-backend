@@ -1,7 +1,7 @@
 [
   {
     "name": "central",
-    "discord": "none",
+    "schoolar": "none",
     "ronin": "ronin:6906cf9832ce56d1371b646210acb39b473f3866",
     "assets": [
       {
@@ -23,7 +23,177 @@
           "morale": 43
         }
       },
-      {}
+      {
+        "id": "#7961025",
+        "class": "dusk",
+        "breed": 2,
+        "parts": {
+          "eyes": "clear",
+          "ears": "innocent lamb",
+          "back": "snail shell",
+          "mouth": "tiny turtle",
+          "horn": "lagging",
+          "tail": "thorny caterpillar"
+        },
+        "stats": {
+          "health": 50,
+          "speed": 44,
+          "skill": 27,
+          "morale": 43
+        }
+      },
+      {
+        "id": "#7829076",
+        "class": "reptile",
+        "breed": 4,
+        "parts": {
+          "eyes": "tricky",
+          "ears": "curly",
+          "back": "tri spikes",
+          "mouth": "razor bite",
+          "horn": "scaly spoon",
+          "tail": "thorny caterpillar"
+        },
+        "stats": {
+          "health": 52,
+          "speed": 42,
+          "skill": 31,
+          "morale": 39
+        }
+      },
+      {
+        "id": "#6664866",
+        "class": "dusk",
+        "breed": 4,
+        "parts": {
+          "eyes": "scar",
+          "ears": "belieber",
+          "back": "snail shell",
+          "mouth": "cute bunny",
+          "horn": "antenna",
+          "tail": "carrot"
+        },
+        "stats": {
+          "health": 52,
+          "speed": 41,
+          "skill": 27,
+          "morale": 44
+        }
+      },
+      {
+        "id": "#6664856",
+        "class": "dusk",
+        "breed": 3,
+        "parts": {
+          "eyes": "cucumber slice",
+          "ears": "curved spine",
+          "back": "pumpkin",
+          "mouth": "nut cracker",
+          "horn": "antenna",
+          "tail": "yam"
+        },
+        "stats": {
+          "health": 56,
+          "speed": 41,
+          "skill": 27,
+          "morale": 40
+        }
+      },
+      {
+        "id": "#6664550",
+        "class": "plant",
+        "breed": 4,
+        "parts": {
+          "eyes": "cucumber slice",
+          "ears": "sakura",
+          "back": "pumpkin",
+          "mouth": "cute bunny",
+          "horn": "antenna",
+          "tail": "carrot"
+        },
+        "stats": {
+          "health": 57,
+          "speed": 31,
+          "skill": 31,
+          "morale": 45
+        }
+      },
+      {
+        "id": "#5999994",
+        "class": "bug",
+        "breed": 3,
+        "parts": {
+          "eyes": "little peas",
+          "ears": "nut cracker",
+          "back": "snail shell",
+          "mouth": "cute bunny",
+          "horn": "antenna",
+          "tail": "nimo"
+        },
+        "stats": {
+          "health": 39,
+          "speed": 36,
+          "skill": 35,
+          "morale": 54
+        }
+      },
+      {
+        "id": "#5688365",
+        "class": "bug",
+        "breed": 3,
+        "parts": {
+          "eyes": "tricky",
+          "ears": "curly",
+          "back": "garish worm",
+          "mouth": "cute bunny",
+          "horn": "antenna",
+          "tail": "gravel ant"
+        },
+        "stats": {
+          "health": 42,
+          "speed": 35,
+          "skill": 35,
+          "morale": 52
+        }
+      },
+      {
+        "id": "#5140054",
+        "class": "plant",
+        "breed": 3,
+        "parts": {
+          "eyes": "cucumber slice",
+          "ears": "swirl",
+          "back": "green throns",
+          "mouth": "serious",
+          "horn": "leaf bug",
+          "tail": "carrot"
+        },
+        "stats": {
+          "health": 59,
+          "speed": 33,
+          "skill": 31,
+          "morale": 41
+        }
+      },
+      {
+        "id": "#2070541",
+        "class": "mech",
+        "breed": 4,
+        "parts": {
+          "eyes": "chubby",
+          "ears": "nut cracker",
+          "back": "ronin",
+          "mouth": "axie kiss",
+          "horn": "antenna",
+          "tail": "cottontail"
+        },
+        "stats": {
+          "health": 32,
+          "speed": 44,
+          "skill": 43,
+          "morale": 45
+        }
+      }
     ]
   }
 ]
