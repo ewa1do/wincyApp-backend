@@ -396,5 +396,204 @@
         }
       }
     ]
+  },
+  {
+    "account": "Wincygamers-132",
+    "schoolar": "Wiwirichu#8885",
+    "ronin": "ronin:7e2abac54b26b98e415290ecc2503df36e16dfe4",
+    "status": "playing",
+    "energy": true,
+    "assets": [
+      {
+        "id": "#7909568",
+        "class": "bug",
+        "breed": 0,
+        "parts": {
+          "eyes": "sleepless",
+          "ears": "ear breathing",
+          "back": "turnip",
+          "mouth": "cute bunny",
+          "horn": "antenna",
+          "tail": "shrimp"
+        },
+        "stats": {
+          "health": 43,
+          "speed": 37,
+          "skill": 35,
+          "morale": 49
+        }
+      },
+      {
+        "id": "#7909435",
+        "class": "bug",
+        "breed": 0,
+        "parts": {
+          "eyes": "sleepless",
+          "ears": "hollow",
+          "back": "garish worm",
+          "mouth": "cute bunny",
+          "horn": "anemone",
+          "tail": "thorny caterpillar"
+        },
+        "stats": {
+          "health": 43,
+          "speed": 37,
+          "skill": 35,
+          "morale": 49
+        }
+      },
+      {
+        "id": "#7828994",
+        "class": "reptile",
+        "breed": 0,
+        "parts": {
+          "eyes": "gecko",
+          "ears": "curved spine",
+          "back": "green throns",
+          "mouth": "razor bite",
+          "horn": "scaly spoon",
+          "tail": "tiny dino"
+        },
+        "stats": {
+          "health": 57,
+          "speed": 41,
+          "skill": 31,
+          "morale": 35
+        }
+      },
+      {
+        "id": "#7660472",
+        "class": "plant",
+        "breed": 0,
+        "parts": {
+          "eyes": "confused",
+          "ears": "rosa",
+          "back": "pumpkin",
+          "mouth": "serious",
+          "horn": "cactus",
+          "tail": "cottontail"
+        },
+        "stats": {
+          "health": 58,
+          "speed": 32,
+          "skill": 31,
+          "morale": 43
+        }
+      },
+      {
+        "id": "#7660397",
+        "class": "plant",
+        "breed": 0,
+        "parts": {
+          "eyes": "confused",
+          "ears": "rosa",
+          "back": "pumpkin",
+          "mouth": "serious",
+          "horn": "cuckoo",
+          "tail": "carrot"
+        },
+        "stats": {
+          "health": 58,
+          "speed": 34,
+          "skill": 31,
+          "morale": 41
+        }
+      },
+      {
+        "id": "#7600312",
+        "class": "plant",
+        "breed": 4,
+        "parts": {
+          "eyes": "cucumber slice",
+          "ears": "clover",
+          "back": "mint",
+          "mouth": "serious",
+          "horn": "leaf bug",
+          "tail": "carrot"
+        },
+        "stats": {
+          "health": 59,
+          "speed": 31,
+          "skill": 31,
+          "morale": 43
+        }
+      },
+      {
+        "id": "#7208719",
+        "class": "beast",
+        "breed": 0,
+        "parts": {
+          "eyes": "chubby",
+          "ears": "earwing",
+          "back": "timber",
+          "mouth": "nut cracker",
+          "horn": "imp",
+          "tail": "nut cracker"
+        },
+        "stats": {
+          "health": 32,
+          "speed": 40,
+          "skill": 31,
+          "morale": 61
+        }
+      },
+      {
+        "id": "#5228976",
+        "class": "reptile",
+        "breed": 3,
+        "parts": {
+          "eyes": "clear",
+          "ears": "owl",
+          "back": "snail shell",
+          "mouth": "tiny turtle",
+          "horn": "lagging",
+          "tail": "thorny caterpillar"
+        },
+        "stats": {
+          "health": 46,
+          "speed": 42,
+          "skill": 31,
+          "morale": 45
+        }
+      },
+      {
+        "id": "#5228657",
+        "class": "reptile",
+        "breed": 3,
+        "parts": {
+          "eyes": "cucumber slice",
+          "ears": "curved spine",
+          "back": "tri spikes",
+          "mouth": "razor bite",
+          "horn": "scaly spoon",
+          "tail": "tiny dino"
+        },
+        "stats": {
+          "health": 57,
+          "speed": 40,
+          "skill": 31,
+          "morale": 36
+        }
+      },
+      {
+        "id": "#5183926",
+        "class": "plant",
+        "breed": 3,
+        "parts": {
+          "eyes": "papi",
+          "ears": "clover",
+          "back": "pumpkin",
+          "mouth": "serious",
+          "horn": "cactus",
+          "tail": "carrot"
+        },
+        "stats": {
+          "health": 61,
+          "speed": 31,
+          "skill": 31,
+          "morale": 41
+        }
+      }
+    ]
   }
 ]
