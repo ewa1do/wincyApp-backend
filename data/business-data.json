@@ -1,8 +1,10 @@
 [
   {
-    "name": "central",
-    "schoolar": "none",
+    "account": "Wincygamers-124",
+    "schoolar": "central",
     "ronin": "ronin:6906cf9832ce56d1371b646210acb39b473f3866",
+    "status": "storage",
+    "energy": false,
     "assets": [
       {
         "id": "#8073396",
@@ -192,6 +194,205 @@
           "speed": 44,
           "skill": 43,
           "morale": 45
+        }
+      }
+    ]
+  },
+  {
+    "account": "Wincygamers-79",
+    "schoolar": "unnamed",
+    "ronin": "ronin:cb0b3807dca37de0a6fbb038d8cc07ae3dc2f42d",
+    "status": "playing",
+    "energy": true,
+    "assets": [
+      {
+        "id": "#8770218",
+        "class": "bug",
+        "breed": 0,
+        "parts": {
+          "eyes": "bookworm",
+          "ears": "friezard",
+          "back": "snail shell",
+          "mouth": "pincer",
+          "horn": "parasite",
+          "tail": "potato leaf"
+        },
+        "stats": {
+          "health": 28,
+          "speed": 58,
+          "skill": 35,
+          "morale": 43
+        }
+      },
+      {
+        "id": "#8656895",
+        "class": "dusk",
+        "breed": 0,
+        "parts": {
+          "eyes": "clear",
+          "ears": "bubblemark",
+          "back": "croc",
+          "mouth": "peace maker",
+          "horn": "lagging",
+          "tail": "thorny caterpillar"
+        },
+        "stats": {
+          "health": 50,
+          "speed": 49,
+          "skill": 27,
+          "morale": 38
+        }
+      },
+      {
+        "id": "#8646914",
+        "class": "plant",
+        "breed": 0,
+        "parts": {
+          "eyes": "confused",
+          "ears": "pogona",
+          "back": "watering can",
+          "mouth": "serious",
+          "horn": "leaf bug",
+          "tail": "hot butt"
+        },
+        "stats": {
+          "health": 59,
+          "speed": 32,
+          "skill": 31,
+          "morale": 42
+        }
+      },
+      {
+        "id": "#8443512",
+        "class": "beast",
+        "breed": 0,
+        "parts": {
+          "eyes": "chubby",
+          "ears": "belieber",
+          "back": "timber",
+          "mouth": "nut cracker",
+          "horn": "imp",
+          "tail": "nut cracker"
+        },
+        "stats": {
+          "health": 31,
+          "speed": 41,
+          "skill": 31,
+          "morale": 61
+        }
+      },
+      {
+        "id": "#8443429",
+        "class": "beast",
+        "breed": 0,
+        "parts": {
+          "eyes": "zeal",
+          "ears": "nyan",
+          "back": "hero",
+          "mouth": "little owl",
+          "horn": "dual blade",
+          "tail": "cottontail"
+        },
+        "stats": {
+          "health": 31,
+          "speed": 43,
+          "skill": 31,
+          "morale": 59
+        }
+      },
+      {
+        "id": "#8441459",
+        "class": "dusk",
+        "breed": 0,
+        "parts": {
+          "eyes": "papi",
+          "ears": "sakura",
+          "back": "pumpkin",
+          "mouth": "cute bunny",
+          "horn": "antenna",
+          "tail": "carrot"
+        },
+        "stats": {
+          "health": 57,
+          "speed": 39,
+          "skill": 27,
+          "morale": 41
+        }
+      },
+      {
+        "id": "#8436764",
+        "class": "plant",
+        "breed": 3,
+        "parts": {
+          "eyes": "confused",
+          "ears": "clover",
+          "back": "bidens",
+          "mouth": "confident",
+          "horn": "leaf bug",
+          "tail": "carrot"
+        },
+        "stats": {
+          "health": 56,
+          "speed": 32,
+          "skill": 31,
+          "morale": 45
+        }
+      },
+      {
+        "id": "#8086637",
+        "class": "plant",
+        "breed": 4,
+        "parts": {
+          "eyes": "neo",
+          "ears": "hollow",
+          "back": "watering can",
+          "mouth": "serious",
+          "horn": "leaf bug",
+          "tail": "hot butt"
+        },
+        "stats": {
+          "health": 57,
+          "speed": 31,
+          "skill": 35,
+          "morale": 45
+        }
+      },
+      {
+        "id": "#6398849",
+        "class": "reptile",
+        "breed": 3,
+        "parts": {
+          "eyes": "chubby",
+          "ears": "curved spine",
+          "back": "jaguar",
+          "mouth": "tiny turtle",
+          "horn": "lagging",
+          "tail": "thorny caterpillar"
+        },
+        "stats": {
+          "health": 47,
+          "speed": 39,
+          "skill": 31,
+          "morale": 47
+        }
+      },
+      {
+        "id": "#6398256",
+        "class": "reptile",
+        "breed": 3,
+        "parts": {
+          "eyes": "tricky",
+          "ears": "curved spine",
+          "back": "timber",
+          "mouth": "tiny turtle",
+          "horn": "scaly spoon",
+          "tail": "iguana"
+        },
+        "stats": {
+          "health": 54,
+          "speed": 41,
+          "skill": 31,
+          "morale": 38
         }
       }
     ]
