@@ -1059,5 +1059,204 @@
         }
       }
     ]
+  },
+  {
+    "account": "Wincygamer-99",
+    "schoolar": "JoseAlejandro.2002#2041",
+    "ronin": "ronin:7d177563e6264dee666fa1d767ad354e2c862b76",
+    "status": "playing",
+    "energy": true,
+    "assets": [
+      {
+        "id": "#8661871",
+        "class": "mech",
+        "breed": 0,
+        "parts": {
+          "eyes": "puppy",
+          "ears": "seaslug",
+          "back": "furball",
+          "mouth": "goda",
+          "horn": "pliers",
+          "tail": "iguana"
+        },
+        "stats": {
+          "health": 36,
+          "speed": 46,
+          "skill": 43,
+          "morale": 39
+        }
+      },
+      {
+        "id": "#8657548",
+        "class": "dusk",
+        "breed": 0,
+        "parts": {
+          "eyes": "clear",
+          "ears": "bubblemaker",
+          "back": "snail shell",
+          "mouth": "peace maker",
+          "horn": "leaf bug",
+          "tail": "thorny caterpillar"
+        },
+        "stats": {
+          "health": 48,
+          "speed": 48,
+          "skill": 27,
+          "morale": 41
+        }
+      },
+      {
+        "id": "#8656530",
+        "class": "reptile",
+        "breed": 0,
+        "parts": {
+          "eyes": "telescope",
+          "ears": "bubblemaker",
+          "back": "snail shell",
+          "mouth": "tiny turtle",
+          "horn": "lagging",
+          "tail": "thorny caterpillar"
+        },
+        "stats": {
+          "health": 47,
+          "speed": 42,
+          "skill": 31,
+          "morale": 44
+        }
+      },
+      {
+        "id": "#8653219",
+        "class": "plant",
+        "breed": 0,
+        "parts": {
+          "eyes": "papi",
+          "ears": "lotus",
+          "back": "mint",
+          "mouth": "serious",
+          "horn": "leaf bug",
+          "tail": "yam"
+        },
+        "stats": {
+          "health": 59,
+          "speed": 31,
+          "skill": 31,
+          "morale": 43
+        }
+      },
+      {
+        "id": "#8561085",
+        "class": "bug",
+        "breed": 0,
+        "parts": {
+          "eyes": "robin",
+          "ears": "ear breathing",
+          "back": "garish worm",
+          "mouth": "pincer",
+          "horn": "parasite",
+          "tail": "gravel ant"
+        },
+        "stats": {
+          "health": 40,
+          "speed": 34,
+          "skill": 35,
+          "morale": 55
+        }
+      },
+      {
+        "id": "#8437652",
+        "class": "dusk",
+        "breed": 0,
+        "parts": {
+          "eyes": "clear",
+          "ears": "sakura",
+          "back": "snail shell",
+          "mouth": "tiny turtle",
+          "horn": "lagging",
+          "tail": "thorny caterpillar"
+        },
+        "stats": {
+          "health": 53,
+          "speed": 43,
+          "skill": 27,
+          "morale": 41
+        }
+      },
+      {
+        "id": "#7169586",
+        "class": "reptile",
+        "breed": 0,
+        "parts": {
+          "eyes": "bookworm",
+          "ears": "curved spine",
+          "back": "raven",
+          "mouth": "tiny turtle",
+          "horn": "scaly spoon",
+          "tail": "iguana"
+        },
+        "stats": {
+          "health": 52,
+          "speed": 42,
+          "skill": 31,
+          "morale": 39
+        }
+      },
+      {
+        "id": "#7040733",
+        "class": "dusk",
+        "breed": 3,
+        "parts": {
+          "eyes": "tricky",
+          "ears": "curved spine",
+          "back": "pumpkin",
+          "mouth": "serious",
+          "horn": "antenna",
+          "tail": "yam"
+        },
+        "stats": {
+          "health": 59,
+          "speed": 41,
+          "skill": 27,
+          "morale": 37
+        }
+      },
+      {
+        "id": "#6417834",
+        "class": "plant",
+        "breed": 3,
+        "parts": {
+          "eyes": "confused",
+          "ears": "lotus",
+          "back": "pumpkin",
+          "mouth": "serious",
+          "horn": "cactus",
+          "tail": "carrot"
+        },
+        "stats": {
+          "health": 61,
+          "speed": 31,
+          "skill": 31,
+          "morale": 41
+        }
+      },
+      {
+        "id": "#6399561",
+        "class": "reptile",
+        "breed": 3,
+        "parts": {
+          "eyes": "gero",
+          "ears": "owl",
+          "back": "red ear",
+          "mouth": "tiny turtle",
+          "horn": "lagging",
+          "tail": "thorny caterpillar"
+        },
+        "stats": {
+          "health": 48,
+          "speed": 43,
+          "skill": 31,
+          "morale": 42
+        }
+      }
+    ]
   }
 ]
