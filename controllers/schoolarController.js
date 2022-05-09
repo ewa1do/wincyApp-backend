@@ -1,11 +1,15 @@
 const Schoolar = require('../models/schoolarModel');
+const APIFeatures = require('../utils/apiFeatures');
 
 exports.getAllSchoolars = async function (req, res) {
   try {
-    const schoolars = await Schoolar.find();
+    const features = new APIFeatures(Schoolar.find(), req.query).filter();
+
+    const schoolars = await features.query;
 
     res.status(200).json({
       status: 'success',
+      results: schoolars.length,
       data: {
         schoolars,
       },
