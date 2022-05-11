@@ -6,7 +6,8 @@ exports.getAllSchoolars = async function (req, res) {
     const features = new APIFeatures(Schoolar.find(), req.query)
       .filter()
       .sort()
-      .limitFields();
+      .limitFields()
+      .paginate();
 
     const schoolars = await features.query;
 
