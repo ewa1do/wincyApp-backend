@@ -3,7 +3,10 @@ const APIFeatures = require('../utils/apiFeatures');
 
 exports.getAllSchoolars = async function (req, res) {
   try {
-    const features = new APIFeatures(Schoolar.find(), req.query).filter();
+    const features = new APIFeatures(Schoolar.find(), req.query)
+      .filter()
+      .sort()
+      .limitFields();
 
     const schoolars = await features.query;
 
