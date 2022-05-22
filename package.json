@@ -4,7 +4,9 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    "start": "nodemon server.js"
+    "start": "nodemon server.js",
+    "start:prod1": "SET NODE_ENV=production& nodemon server.js",
+    "start:prod2": "NODE_ENV=production cmd /c echo %NODE_ENV% && nodemon server.js"
   },
   "repository": {
     "type": "git",
