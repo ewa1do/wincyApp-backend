@@ -3,6 +3,8 @@ const dotenv = require('dotenv');
 
 dotenv.config({ path: './config.env' });
 
+console.log('ENVIRONMENT:', process.env.NODE_ENV);
+
 const app = require('./app');
 
 const DB = process.env.DATABASE.replace(

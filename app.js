@@ -8,8 +8,6 @@ const schoolarRouter = require('./routes/schoolarRouter');
 
 const app = express();
 
-console.log('ENVIRONMENT:', process.env.NODE_ENV);
-
 if (process.env.NODE_ENV === 'development') app.use(morgan('dev'));
 
 app.use(express.json());
